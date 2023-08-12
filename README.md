@@ -14,6 +14,6 @@ Release test 4
 test 4-1  
 test 4-2
 
-Release test 5 with tag
-test 5-1
-test 5-2
+Release test 5 with tag. 
+test 5-1. 
+test 5-2. 
