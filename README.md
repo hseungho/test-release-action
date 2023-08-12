@@ -14,6 +14,12 @@ Release test 4
 test 4-1  
 test 4-2
 
-Release test 5 with tag
-test 5-1
-test 5-2
+Release test 5 with tag. 
+test 5-1. 
+test 5-2. 
+
+Release test 6. 
+test 6-1
+test 6-2
+test 6-3
+
