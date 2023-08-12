@@ -20,3 +20,4 @@ test 5-2.
 
 Release test 6. 
 test 6-1
+test 6-tmp
